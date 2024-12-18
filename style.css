@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: cursive;
+}
+.container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;     /* Center vertically (optional) */
+    height: 100vh;           /* Full viewport height (optional) */
+  }
+h1 {
+    position: fixed;
+}
+
+h2 {
+    margin-top: 50px;
+    margin-left: 20px;
+}
